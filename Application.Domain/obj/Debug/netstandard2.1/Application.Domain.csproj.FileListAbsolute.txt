@@ -1,0 +1,5 @@
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application.Domain\bin\Debug\netstandard2.1\Application.Domain.deps.json
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application.Domain\bin\Debug\netstandard2.1\Application.Domain.dll
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application.Domain\obj\Debug\netstandard2.1\Application.Domain.csprojAssemblyReference.cache
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application.Domain\obj\Debug\netstandard2.1\Application.Domain.AssemblyInfoInputs.cache
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application.Domain\obj\Debug\netstandard2.1\Application.Domain.AssemblyInfo.cs

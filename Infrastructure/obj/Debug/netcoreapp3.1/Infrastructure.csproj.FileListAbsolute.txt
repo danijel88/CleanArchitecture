@@ -1,0 +1,14 @@
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.deps.json
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.dll
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.pdb
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.dll
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.pdb
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
+C:\Users\BoksanD\source\repos\CleanArchitecture\Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb

@@ -1,0 +1,12 @@
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\bin\Debug\netstandard2.1\CleanArchitecture.Domain.dll
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\bin\Debug\netstandard2.1\CleanArchitecture.Domain.pdb
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\bin\Debug\netstandard2.1\CleanArchitecture.Application.deps.json
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\bin\Debug\netstandard2.1\CleanArchitecture.Application.dll
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\bin\Debug\netstandard2.1\CleanArchitecture.Application.pdb
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\obj\Debug\netstandard2.1\CleanArchitecture.Application.dll
+C:\Users\BoksanD\source\repos\CleanArchitecture\Application\obj\Debug\netstandard2.1\CleanArchitecture.Application.pdb
